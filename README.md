@@ -17,7 +17,11 @@
 
 **Sleek Dashboard** - Free Bootstrap 4 Admin Dashboard Template and UI Kit. It is very powerful *bootstrap* admin dashboard, which allows you to build products like admin panels, content managements systems and CRMs.
 
+<br />
+
 > **In love with this dashboard?** Check out the [open-source version coded in Flask](https://github.com/app-generator/flask-dashboard-sleek). **Features:** SQLite Database, Session-Based Authentication, Flat Html converted to Jinja2, clean code-base. 
+
+<br />
 
 <div align="center">
 
